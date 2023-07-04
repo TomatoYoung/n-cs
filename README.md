@@ -7,3 +7,6 @@ Memo: cs study materials
 
 ## Videos
 1. https://space.bilibili.com/202224425?spm_id_from=333.337.0.0
+
+## Grammar
+1. https://markdown.com.cn/basic-syntax/
