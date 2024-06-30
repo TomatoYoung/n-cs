@@ -12,3 +12,8 @@ Memo: cs study materials
 
 ## Grammar
 1. https://markdown.com.cn/basic-syntax/
+
+# note
+Memo: 
+
+## Dynmaic Programming: Knaspack problem
